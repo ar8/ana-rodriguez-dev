@@ -29,27 +29,29 @@ In addition DevOps experience, including managing and troubleshooting CI/CD pipe
 <br>
 
 ## Languages & Technologies
-<img src="assets/php_logo.png" width="50" />
-<img src="assets/laravel_logo.png" width="50" />
-<img src="assets/cake_logo.png" width="50" />
-<img src="assets/python_logo.png" width="50" />
-<img src="assets/django_logo.png" width="50" />
-<img src="assets/js_logo.png" width="50" />
-<img src="assets/nodejs_logo.png" width="50" />
-<img src="assets/typescript_logo.png" width="50" />
-<img src="assets/html_logo.png" width="50" />
-<img src="assets/css_logo.png" width="50" />
-<img src="assets/wordpress_logo.png" width="50" />
-<img src="assets/docker_logo.png" width="50" />
-<img src="assets/kubernetes_logo.png" width="50" />
-<img src="assets/mysql_logo.png" width="50" />
-<img src="assets/postgre_logo.png" width="50" />
-<img src="assets/gitlab_logo.png" width="50" />
-<img src="assets/github_logo.png" width="50" />
-<img src="assets/datadog_logo.png" width="70" />
-<img src="assets/argo_logo.png" width="50" />
-<img src="assets/dialogflow_logo.webp" width="80" />
-<img src="assets/jira_logo.png" width="60" />
+<p align="center">
+  <img src="assets/php_logo.png" width="50" />
+  <img src="assets/laravel_logo.png" width="50" />
+  <img src="assets/cake_logo.png" width="50" />
+  <img src="assets/python_logo.png" width="50" />
+  <img src="assets/django_logo.png" width="50" />
+  <img src="assets/js_logo.png" width="50" />
+  <img src="assets/nodejs_logo.png" width="50" />
+  <img src="assets/typescript_logo.png" width="50" />
+  <img src="assets/html_logo.png" width="50" />
+  <img src="assets/css_logo.png" width="50" />
+  <img src="assets/wordpress_logo.png" width="50" />
+  <img src="assets/docker_logo.png" width="50" />
+  <img src="assets/kubernetes_logo.png" width="50" />
+  <img src="assets/mysql_logo.png" width="50" />
+  <img src="assets/postgre_logo.png" width="50" />
+  <img src="assets/gitlab_logo.png" width="50" />
+  <img src="assets/github_logo.png" width="50" />
+  <img src="assets/datadog_logo.png" width="70" />
+  <img src="assets/argo_logo.png" width="50" />
+  <img src="assets/dialogflow_logo.webp" width="80" />
+  <img src="assets/jira_logo.png" width="60" />
+</p>
 
 
 
